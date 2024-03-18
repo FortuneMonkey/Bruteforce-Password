@@ -18,3 +18,4 @@ while(pw!=u_pwd):
         count+=1
 
 print("Your Password Is : ",pw)
+print("Total Attempt    : ",count)
