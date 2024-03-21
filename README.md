@@ -1,6 +1,6 @@
 # Simple Brute-Force Password Tool
 
-Welcome to the Simple Brute-Force Password Tool repository! This project provides a straightforward implementation of a brute-force password cracking tool. With this tool, users can test the strength of their passwords or experiment with different brute-force strategies.
+Welcome to the Brute-Force Password Tool repository! This project provides a straightforward implementation of a brute-force password cracking tool. With this tool, users can test the strength of their passwords or experiment with different brute-force strategies.
 
 ## Features
 
@@ -27,4 +27,4 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-brute-force-password.git
+git clone https://github.com/FortuneMonkey/brute-force-password.git
