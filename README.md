@@ -27,4 +27,4 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/FortuneMonkey/brute-force-password.git
+https://github.com/FortuneMonkey/bruteforce-password.git
